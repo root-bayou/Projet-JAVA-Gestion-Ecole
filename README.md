@@ -1,1 +1,1 @@
-# Projet-JAVA-Gestions-Ecole
+# Projet-JAVA-Gestion-Ecole
